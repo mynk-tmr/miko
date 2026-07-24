@@ -3,3 +3,4 @@ onlyBuiltDependencies:
   - esbuild
   - lefthook
   - protobufjs
+verifyDepsBeforeRun: false
